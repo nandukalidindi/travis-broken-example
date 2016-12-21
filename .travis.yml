@@ -1,11 +1,11 @@
-language: php
-php:
-  - 5.5
-  - 5.4
-  - hhvm
-script: phpunit Test.php
+# language: php
+# php:
+#   - 5.5
+#   - 5.4
+#   - hhvm
+# script: phpunit Test.php
 
-# language: ruby
-# rvm:
-#   - 2.0.0-p247
-# script: ruby test.ruby
+language: ruby
+rvm:
+  - 2.0.0-p247
+script: ruby test.ruby
