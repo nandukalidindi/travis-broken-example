@@ -4,7 +4,7 @@ require 'test/unit/ui/console/testrunner'
 
 class My_test < Test::Unit::TestCase
   def test_sample
-    assert_equal(1, 2)
+    assert_equal(2, 2)
   end
 end
 

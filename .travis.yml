@@ -8,4 +8,4 @@
 language: ruby
 rvm:
   - 2.0.0-p247
-script: ruby test.rb
+script: source script.sh

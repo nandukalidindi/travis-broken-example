@@ -1,0 +1,14 @@
+GEM
+  specs:
+    power_assert (0.4.1)
+    test-unit (3.1.8)
+      power_assert
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  test-unit (= 3.1.8)
+
+BUNDLED WITH
+   1.13.6
