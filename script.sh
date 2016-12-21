@@ -1,2 +1,2 @@
-bundle install
-rake test
+# bundle install
+# rake test
