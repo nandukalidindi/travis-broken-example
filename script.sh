@@ -1,3 +1,2 @@
 bundle install
-
-ruby test.rb
+rake test
