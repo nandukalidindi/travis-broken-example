@@ -1,4 +1,4 @@
 task :test do
   ruby("test.rb")
-  ruby("some_file.rb")
+  ruby("some/some_file.rb")
 end
